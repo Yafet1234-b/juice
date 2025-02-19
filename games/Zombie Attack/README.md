@@ -1,4 +1,7 @@
 Game Name - Zombie Attack
+Team Members 
+1. Bereket Befekadu
+2. Yafet Misker
 
 How would you pitch your game in one line?
 
